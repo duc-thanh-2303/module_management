@@ -30,5 +30,4 @@ This project is a Task Management Module designed for Company A to manage employ
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/duc-thanh-2303/module_management
-   cd task-management-module
    ```
